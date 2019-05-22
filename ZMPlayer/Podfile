@@ -1,0 +1,13 @@
+workspace 'ZMPlayer.xcworkspace'
+inhibit_all_warnings!
+
+platform :ios, '9.3'
+
+target 'ZMPlayer' do
+
+    use_frameworks!
+
+    pod 'Player'
+    pod 'SnapKit'
+
+end

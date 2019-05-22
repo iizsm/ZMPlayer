@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ZMPlayer/Pods-ZMPlayer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Player/Player.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
